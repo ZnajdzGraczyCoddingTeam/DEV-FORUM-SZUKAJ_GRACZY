@@ -1,6 +1,6 @@
 # DEV-FORUM-SZUKAJ-GRACZY
 ###Opis
-Repozytorium zawiera **wszystkie** pliki z forum. Można stworzyć własnego **brancha** z nazwą `dev-NAZWA_ZMIANY-DATA` czyli np. `dev-readme-04_07_2016`
+Repozytorium zawiera **wszystkie** pliki z forum. Można stworzyć własnego **brancha** z nazwą `dev-NAZWA_ZMIANY-DATA` czyli np. `dev-readme-04_07_2016` i tam wprowadzac wlasne zmiany. Gdy zmiany zostaną zakończone, tworzycie pull requesta, aby administracja mogła sprawdzić, i ewentualnie wprowadzić zmiany na brancha `master` i wysłać na *serwer główny/produkcyjny*
 ###Wymagania
 **PHP 5.6 lub nowsze** oraz
 **MySQL**
