@@ -1,0 +1,82 @@
+/*
+	Question2Answer (c) Gideon Greenspan
+
+	http://www.question2answer.org/
+
+	
+	File: qa-plugin/dashboard/qa-dashboard-styles.css
+	Version: See define()s at top of qa-include/qa-base.php
+	Description: CSS file for included Snow theme
+
+
+	This program is free software; you can redistribute it and/or
+	modify it under the terms of the GNU General Public License
+	as published by the Free Software Foundation; either version 2
+	of the License, or (at your option) any later version.
+	
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	More about this license: http://www.question2answer.org/license.php
+*/
+
+/*************************************************
+ Style of Dashboard framework
+**************************************************/
+.qa-dashboard-message {
+/* display:none;*/
+}
+.qa-dashboard-editlink {
+margin-top: -10px;
+margin-bottom: 0;
+padding-right: 0.25em;
+text-align: right;
+}
+.qa-dashboard-editlink a {
+font-size: 12px;
+text-decoration: underline;
+}
+#qa-dashboard {
+}
+#qa-dashboard-menu {
+}
+#qa-dashboard-menu li {
+}
+#qa-dashboard-menu li a {
+}
+#qa-dashboard-block1 {
+}
+#qa-dashboard-block2 {
+}
+#qa-dashboard-block3 {
+}
+/*************************************************
+ Style of user contents
+**************************************************/
+/*
+.db-menu {
+list-style: none outside none;
+margin: 0;
+padding: 0;
+}
+.db-menu li {
+display: block;
+float: left;
+margin: 5px;
+padding: 0;
+text-align: left;
+width: 260px;
+}
+.db-menu li a {
+background: url("images/aperture_24x24.png") no-repeat scroll 5px center #FFF;
+border: 1px solid #EEE;
+display: block;
+color: #3B5998;
+font-size: 14px;
+font-weight:bold;
+padding: 10px 5px 10px 42px;
+text-decoration: none;
+}
+*/
